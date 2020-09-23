@@ -1,0 +1,5 @@
+name: MCONE-QSG
+authors: [Marvin Hülsmann]
+version: ${project.version}
+main: eu.mcone.qsg.QSG
+depend: [MCONE-BukkitCoreSystem, MCONE-GameAPI]
